@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Marcelo</h1>
 
-⚡A passionate frontend developer from Portugal. <br>⚡I currently work at ITSector where I develop for Portuguese Banking as Senior React Developer..
+⚡ A passionate frontend developer from Portugal.<br>⚡ Born in Porto on November 1st, 1998. <br>⚡ I currently work at ITSector where I develop for Portuguese Banking as Senior React Developer.<br>⚡  Professional Scrum Master™ I (PSM I)
+
 
 
 ## 🌐 Socials:
